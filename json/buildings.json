@@ -1,1 +1,10 @@
-
+{
+    "gun": {
+        "name": "Gun",
+        "gold": 1,
+        "time": 1,
+        "goldpersecond": 1,
+        "level": 0,
+        "image": "https://cdn.shopify.com/s/files/1/1488/4376/products/salt-gun_1024x1024.png?v=1481662760"
+     }
+}
