@@ -4,11 +4,11 @@
         "gun"
     ]
     
-    "gun": {
+    "gun"; {
         "name": "Gun",
-        "gold": 1,
+        "money": 1,
         "time": 1,
-        "goldpersecond": 1,
+        "moneypersecond": 1,
         "level": 0
       }
    }
