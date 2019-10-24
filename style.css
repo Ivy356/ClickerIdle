@@ -1,1 +1,26 @@
+body {
+    background-color: #ffffff;
+}
 
+h1 {
+    color: #000000;
+    font-family: Luckiest Guy, cursive;
+}
+p {
+    color: #000000;
+    font-family: Luckiest Guy, cursive;
+  
+}
+  
+button {
+    color: #ffffff;
+    font-family: Luckiest Guy, cursive;
+  
+}
+
+strong {
+    color: #ffffff;
+    font-family: Luckiest Guy, cursive;
+    font-size: 150%;
+  
+}
