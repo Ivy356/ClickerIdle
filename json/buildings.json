@@ -3,13 +3,14 @@
     [
         "gun"
     ]
-    
+}
+
+{    
     "gun": {
         "name": "Gun",
         "money": 1,
         "time": 1,
         "moneypersecond": 1,
         "level": 0
-      }
-   }
+     }
 }
