@@ -4,7 +4,7 @@
         "gun"
     ]
     
-    "gun"; {
+    "gun": {
         "name": "Gun",
         "money": 1,
         "time": 1,
