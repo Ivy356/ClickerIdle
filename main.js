@@ -5,5 +5,3 @@ function moneyClick(number){
     money = money + number;
     document.getElementById("money").innerHTML = money;
 };
-
-var buildings = ('json/buildings.json');
